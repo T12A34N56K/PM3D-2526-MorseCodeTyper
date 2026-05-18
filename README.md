@@ -19,7 +19,7 @@ Așadar luăm următoarea idee:
 *Probleme:*
 - Trebuie să *iterez* prin hârtie. Rezolvare: vom da unroll la un termal paper roll, vom transfera mișcarea liniară în mișcare rotativă. Mai sunt probleme dar deocamdată asta este ideea principală
 - Brațul trebuie să se ridice automat după apăsare. Rezolvare: Elastice, mai ușor de proiectat pentru ele decât arcuri și mai puțin de căutat după ce am nevoie.
-- Când apăs brațul  trebuie să coboare și celălalt capăt, nu să urce. Un telegraph key funcționează prin separareacontactelor fizice, eu am venoie să fac contact fizic cu hârtia. Posibile rezolvăriȘ
+- Când apăs brațul  trebuie să coboare și celălalt capăt, nu să urce. Un telegraph key funcționează prin separarea contactelor fizice, eu am venoie să fac contact fizic cu hârtia. Posibile rezolvări:
   1. Sistem de 2 brațe. Mecanismul este practic mirrored, ai două maini care se unesc. când apăs pe partea apropiată de mine partea depărtată de mine a acelui braț se ridică cea ce face să se ridice jumătatea apropiată a celui de al doile braț cea ce coboră partea depărtată a acestuia. Prea Complex
   2. Cu Gear-uri, am două brațe conectate prin gear-uri, când apăs pe unul celălalt coboară, mai simplu, dar pot mai bine.
   3. Doar o ștampilă cu . și -. Bucata pe care o apăs este legată direct de ștampilă. Probabil cea pe care o să o implementez
